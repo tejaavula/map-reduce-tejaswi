@@ -23,6 +23,6 @@ cat covid_19_india.csv | Python 02mapper.py | sort | Python reduce2.py > AvulaOu
 
 **Data Story :**
 
-Following below is the data story where I have sorted the Country and Count 
+Following below is the data story where I have sorted the Country and Count where the sum of all the covid cases where sorted accourding to the Country name
  
 ![image](Picture2.png)
