@@ -1,4 +1,4 @@
-Country,Count
+Row Labels,Sum of Count
 Andaman and Nicobar Islands  ,504
 Andhra Pradesh  ,518
 Arunachal Pradesh  ,496
@@ -46,3 +46,4 @@ Unassigned  ,3
 Uttar Pradesh  ,526
 Uttarakhand  ,515
 West Bengal  ,512
+Grand Total,18111
